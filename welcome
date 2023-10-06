@@ -12,9 +12,13 @@ today git 2nd class
 
 <<<<<<< HEAD
 doing changes in feature brancg file 
+<<<<<<< HEAD
 =======
 today git 2nd class!!!!!
 
 >>>>>>> a137d172fda54fb6a03b1dd5f770fd80641a767b
 
 adding new line 
+=======
+doing test on conflict
+>>>>>>> Dev/Mutual
